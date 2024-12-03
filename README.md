@@ -101,13 +101,7 @@ The system tracks several key performance indicators:
 - Safety constraint satisfaction
 - False positive/negative rates
 
-## Visualization
-The project includes comprehensive visualization tools for:
-- Training progress
-- Control performance
-- Attack detection results
-- System state trajectories
-- 
+
 ## References
 Environment development and other parts of code are adapted from:
 
