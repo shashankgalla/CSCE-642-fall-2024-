@@ -98,8 +98,7 @@ The system tracks several key performance indicators:
 - Attack detection accuracy
 - Recovery time
 - Control performance
-- Safety constraint satisfaction
-- False positive/negative rates
+
 
 
 ## References
