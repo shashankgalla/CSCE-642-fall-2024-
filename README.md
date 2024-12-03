@@ -110,14 +110,10 @@ The project includes comprehensive visualization tools for:
 - 
 ## References
 Environment development and other parts of code are adapted from:
-@inproceedings{zhang2023cpsim,
-  title={Demo: Simulation and Security Toolbox for Cyber-Physical Systems},
-  author={Zhang, Lin and Liu, Mengyu and Kong, Fanxin},
-  booktitle={2023 IEEE 29th Real-Time and Embedded Technology and Applications Symposium (RTAS) Brief Presentations},
-  pages={},
-  year={2023},
-  organization={IEEE}
-}
+
+[1] Zhang, L., Liu, M., & Kong, F. (2023). Demo: Simulation and Security Toolbox for Cyber-Physical Systems. In Proceedings - 29th IEEE Real-Time and Embedded Technology and Applications Symposium, RTAS 2023 (pp. 357-358). (Proceedings of the IEEE Real-Time and Embedded Technology and Applications Symposium, RTAS; Vol. 2023-May). Institute of Electrical and Electronics Engineers Inc.. https://doi.org/10.1109/RTAS58335.2023.00040
+
+GitHub Link: https://github.com/lion-zhang/CPSim
 
 ## Acknowledgment
 
