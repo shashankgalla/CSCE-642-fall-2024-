@@ -19,7 +19,7 @@ project_root/
 │   ├── observer.py        # RL-based adaptive observer implementation
 │   ├── training_main.py   # Main training script for DDPG
 │   ├── main.py           # Main testing script for DDPG implementation
-│   ├── test_multiple_trajectories.py # Testing script for different trajectories
+│   ├── test_multiple_trajectories.py # Testing utilities for different trajectories
 │   ├── train.py          # Training utilities for DDPG
 │   ├── environment.py    # Stepper motor environment simulation
 │   ├── agent.py         # DDPG agent implementation
@@ -68,10 +68,7 @@ python training_main.py
 ```bash
 python main.py
 ```
-4. Testing with multiple trajectories:
-```bash
-python test_multiple_trajectories.py
-```
+
 
 Note: Each implementation (SAC and DDPG) has its own configurations and may require different hyperparameters for optimal performance.
 
