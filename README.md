@@ -107,6 +107,21 @@ The project includes comprehensive visualization tools for:
 - Control performance
 - Attack detection results
 - System state trajectories
+- 
+## References
+Environment development and other parts of code are adapted from:
+@inproceedings{zhang2023cpsim,
+  title={Demo: Simulation and Security Toolbox for Cyber-Physical Systems},
+  author={Zhang, Lin and Liu, Mengyu and Kong, Fanxin},
+  booktitle={2023 IEEE 29th Real-Time and Embedded Technology and Applications Symposium (RTAS) Brief Presentations},
+  pages={},
+  year={2023},
+  organization={IEEE}
+}
+
+## Acknowledgment
+
+We would like to acknowledge the use of ChatGPT for its support in debugging the code and generating several utility functions for this project. 
 
 
 
