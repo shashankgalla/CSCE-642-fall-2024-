@@ -1,5 +1,5 @@
-# Deep Reinforcement Learning Based Attack Mitigation and Recovery controller (Reinforcement Learning Course Project)
-CSCE-642-fall-2024-TANU
+# Deep Reinforcement Learning Based Attack Mitigation and Recovery Controller (Reinforcement Learning Course Project)
+CSCE-642-fall-2024-TAMU
 
 
 ## Project Overview
