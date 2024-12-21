@@ -1,7 +1,6 @@
-# CSCE-642-fall-2024-
-Reinforcement Learning Course Project
+# Deep Reinforcement Learning Based Attack Mitigation and Recovery controller (Reinforcement Learning Course Project)
+CSCE-642-fall-2024-TANU
 
-# Deep Reinforcement Learning Based Attack Mitigation and Recovery controller
 
 ## Project Overview
 This project implements a secure control system for a stepper motor using reinforcement learning (RL) and attack detection mechanisms. The system is designed to maintain stable motor operation even under sensor attacks while ensuring safety constraints are met.
@@ -81,8 +80,8 @@ Note: Each implementation (SAC and DDPG) has its own configurations and may requ
 - Residual-based monitoring
 - Adaptive state estimation
 
-### SAC Controller
-- Soft Actor-Critic implementation
+### RL-Based Controller 
+- DDPG and SAC implementation
 - Automatic entropy tuning
 - Experience replay buffer
 - State representation handling
